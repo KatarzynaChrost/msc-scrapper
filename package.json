@@ -1,0 +1,17 @@
+{
+  "name": "msc-scrapper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "keywords": [],
+  "author": "Katarzyna Chróst",
+  "license": "CC BY-NC",
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "csv-writer": "^1.6.0",
+    "puppeteer": "^22.10.0"
+  }
+}
